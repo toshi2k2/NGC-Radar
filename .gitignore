@@ -3,6 +3,7 @@ saved_models/
 centernet/data/
 centernet/output/
 centernet/present/
+fhist_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
